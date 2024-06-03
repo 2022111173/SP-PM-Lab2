@@ -7,7 +7,8 @@ import java.util.*;
 
 /**
  * An implementation of Graph.
- * 
+ * 这是一个通过点实现的图
+ *
  * <p>PS2 instructions: you MUST use the provided rep.
  */
 public class ConcreteVerticesGraph<L> implements Graph<L> {
