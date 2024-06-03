@@ -15,7 +15,8 @@ import P1.graph.Graph;
 
 /**
  * A graph-based poetry generator.
- * 
+ * 这是一个基于图生成的诗词增长模式 
+ *
  * <p>GraphPoet is initialized with a corpus of text, which it uses to derive a
  * word affinity graph.
  * Vertices in the graph are words. Words are defined as non-empty
