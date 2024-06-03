@@ -7,7 +7,7 @@ import java.util.*;
 
 /**
  * An implementation of Graph.
- * 
+ * 这是一个通过边实现的图
  * <p>PS2 instructions: you MUST use the provided rep.
  */
 public class ConcreteEdgesGraph<L> implements Graph<L> {
